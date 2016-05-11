@@ -13,7 +13,7 @@ var day = prompt('what day of the week is it?');
 			console.log('HUMP DAY');
 			break;
 		case 'Thursday':
-			console.log('Emo band name');
+			console.log('Thirsty Thurday');
 			break;
 		case 'Friday':
 			console.log('Montell Jordan day');
